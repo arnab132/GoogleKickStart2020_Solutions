@@ -11,7 +11,7 @@ If you're stuck at some question, hopefully you'll find this repository useful.
 ### Who can contribute?
 Anyone with a knack for Programming 😜.
 
-### How to contribute?
+### How to Contribute?
 Visit [CONTRIBUTING.md](https://github.com/BlankCoders/GoogleKickStart2020_Solutions/blob/master/CONTRIBUTING.md) to understand the procedure.
 
 ### New to GitHub and don't know how to do things?
